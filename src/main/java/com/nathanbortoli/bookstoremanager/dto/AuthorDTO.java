@@ -23,5 +23,4 @@ public class AuthorDTO {
 
     @NotNull
     private Integer age;
-
 }
